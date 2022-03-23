@@ -4,10 +4,10 @@ class FirstGitFile{
     Scanner sc = new Scanner(System.in);
     String s = sc.nextLine();
     if(s.equals("first")){
-      System.out.println("This is the 1st committed file");
+      System.out.println("This is the first committed file");
     }
     else{
-      System.out.println("Not the 1st committed file");
+      System.out.println("Not the first committed file");
     }
   }
 }
